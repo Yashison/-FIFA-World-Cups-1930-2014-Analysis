@@ -179,18 +179,3 @@ The dashboard is built using historical FIFA World Cup datasets containing:
 - Real-time Tournament Analytics
 
 ---
-
-## 👨‍💻 Author
-
-**Yash Joshi**
-
-B.Tech – Computer Science & Data Science
-
-**Skills:** Power BI | SQL | Python | Excel | Data Analysis | DAX | Power Query
-
-GitHub: https://github.com/Yashison
-
-LinkedIn: https://www.linkedin.com/in/yashjoshi123/
-
-
----
